@@ -12,4 +12,4 @@
 </div>
 <p align="center"><em>estudante apaixonado por programaçao</p></em>
 <h1> Entrem em contato através do e-mail:</h1>
-<a href="mailto melotoleonardo@gmail.com" align="center">melotoleonardo@gmail.com</a>
+<a href="mailto:melotoleonardo@gmail.com">melotoleonardo@gmail.com</a>
